@@ -1,3 +1,6 @@
 [submodule "ntrip_ros_python3"]
 	path = ntrip_ros_python3
 	url = https://github.com/DrawingProcess/ntrip_ros_python3
+[submodule "rtcm_msgs"]
+	path = rtcm_msgs
+	url = https://github.com/tilk/rtcm_msgs.git
